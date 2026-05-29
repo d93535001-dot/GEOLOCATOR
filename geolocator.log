@@ -1,0 +1,131 @@
+2026-05-28 21:26:45,099 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 21:27:41,141 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 21:38:34,043 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 21:39:00,613 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:00:47,126 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:01:06,640 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:01:06,661 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 22:01:06,689 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 22:01:06,712 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 22:02:26,535 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:02:26,567 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 22:02:26,592 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 22:02:34,308 [ERROR] GeoLocator: Ошибка ollama.pull(llava): unsupported operand type(s) for /: 'NoneType' and 'int'
+2026-05-28 22:02:34,333 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 22:06:47,164 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:06:47,182 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 22:06:47,209 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 22:36:24,226 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 22:41:13,731 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 22:41:13,773 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 22:41:13,804 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 22:41:24,164 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:12:18,138 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:12:18,158 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:12:18,185 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:12:21,980 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:13:07,878 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:13:07,902 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:13:07,930 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:13:12,043 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:14:07,246 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:14:07,500 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:14:07,537 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:14:11,619 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:14:53,215 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:14:53,240 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:14:53,266 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:14:57,378 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:17:19,393 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:17:19,412 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:17:19,439 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:17:23,963 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:17:46,094 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:17:46,120 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:17:46,151 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:17:52,215 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:18:54,179 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:21:53,257 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:21:53,299 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:21:53,408 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:21:53,435 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:29:46,675 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:29:46,699 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:29:46,725 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:29:47,791 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-28 23:30:07,187 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-28 23:30:07,221 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-28 23:30:07,252 [WARNING] GeoLocator: Не удалось изменить приоритет процесса (Windows).
+2026-05-28 23:30:31,691 [INFO] GeoLocator: YOLO ONNX: Модель yolo11x.onnx не найдена. Начинаем экспорт (выполняется один раз)...
+2026-05-28 23:36:10,709 [INFO] GeoLocator: YOLO ONNX: Экспорт успешно завершен.
+2026-05-28 23:36:10,711 [INFO] GeoLocator: Загрузка YOLO ONNX (DirectML): C:\Users\Machinist\Desktop\WHBMv2\geolocator\yolo11x.onnx...
+2026-05-28 23:36:10,768 [INFO] GeoLocator: Обработка изображения: C:\Users\Machinist\Desktop\test_photo.jpg
+2026-05-28 23:36:18,750 [INFO] GeoLocator: Модель YOLO выгружена из памяти.
+2026-05-28 23:36:18,953 [INFO] GeoLocator: Инициализация PaddleOCR (ru)...
+2026-05-28 23:36:18,953 [ERROR] GeoLocator: Ошибка инициализации PaddleOCR (ru): Unknown argument: show_log
+2026-05-28 23:36:18,953 [WARNING] GeoLocator: Откат на английский OCR...
+2026-05-28 23:36:18,953 [ERROR] GeoLocator: Критическая ошибка: не удалось запустить даже английский OCR: Unknown argument: show_log
+2026-05-28 23:36:18,953 [INFO] GeoLocator: Извлечено: улиц=0, POI=0, городов=0, стран=0, телефонов=0, номеров=0
+2026-05-28 23:36:19,437 [INFO] GeoLocator: CLIP ONNX: Модели не найдены. Начинаем экспорт в формат ONNX (выполняется один раз)...
+2026-05-28 23:40:22,711 [ERROR] GeoLocator: CLIP ONNX: Ошибка при экспорте CLIP в ONNX: No module named 'onnxscript'
+2026-05-28 23:40:22,711 [ERROR] GeoLocator: Ошибка CLIP ONNX: Не удалось подготовить CLIP ONNX: No module named 'onnxscript'. Откат на PyTorch CPU.
+2026-05-28 23:40:22,805 [INFO] GeoLocator: Загрузка CLIP PyTorch на cpu...
+2026-05-28 23:40:41,517 [INFO] GeoLocator: CLIP PyTorch: a port city street in Northern Europe with brick warehouses (0.7618)
+2026-05-28 23:40:41,933 [INFO] GeoLocator: Модель CLIP выгружена из памяти.
+2026-05-28 23:40:42,764 [WARNING] GeoLocator: Нет ключевых слов для геокодинга.
+2026-05-28 23:40:43,573 [INFO] GeoLocator: Аннотированное изображение сохранено: C:\Users\Machinist\Desktop\WHBMv2\geolocator\temp\annotated.jpg
+2026-05-28 23:40:43,600 [INFO] GeoLocator: Приоритет процесса восстановлен: 32
+2026-05-29 00:06:11,135 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 00:07:52,824 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 00:11:16,197 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 00:11:16,513 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 00:15:38,960 [INFO] GeoLocator: Запуск UI-процесса batch-обработки: 1 фото.
+2026-05-29 00:15:38,961 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 00:15:38,962 [INFO] GeoLocator: Приоритет Windows-процесса повышен до HIGH_PRIORITY_CLASS.
+2026-05-29 00:15:39,033 [INFO] GeoLocator: YOLO ONNX: Модель yolo11x.onnx не найдена. Начинаем экспорт (выполняется один раз)...
+2026-05-29 00:16:25,651 [INFO] GeoLocator: YOLO ONNX: Экспорт успешно завершен.
+2026-05-29 00:16:25,652 [INFO] GeoLocator: Загрузка YOLO ONNX (DirectML): C:\Users\Machinist\Desktop\WHBMv2\geolocator\yolo11x.onnx...
+2026-05-29 00:16:25,653 [INFO] GeoLocator: Batch YOLO: C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg
+2026-05-29 00:16:30,432 [INFO] GeoLocator: Batch YOLO завершён: обработано 1 фото. Модель выгружена.
+2026-05-29 00:16:30,433 [INFO] GeoLocator: YOLO Batch completed in 51.40s
+2026-05-29 00:16:30,433 [INFO] GeoLocator: Инициализация PaddleOCR (ru) для батча 1 фото...
+2026-05-29 00:16:30,434 [ERROR] GeoLocator: Ошибка инициализации PaddleOCR (ru): Unknown argument: show_log
+2026-05-29 00:16:30,434 [ERROR] GeoLocator: Критическая ошибка OCR: Unknown argument: show_log
+2026-05-29 00:16:30,436 [INFO] GeoLocator: OCR Batch completed in 0.00s
+2026-05-29 00:16:30,436 [INFO] GeoLocator: Извлечено: улиц=0, POI=0, городов=0, стран=0, телефонов=0, номеров=0
+2026-05-29 00:16:30,437 [INFO] GeoLocator: Устройство PyTorch: cpu
+2026-05-29 00:16:30,437 [INFO] GeoLocator: Загрузка CLIP PyTorch на cpu для батча 1 фото...
+2026-05-29 00:16:42,501 [INFO] GeoLocator: Batch CLIP C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg: a residential street in a post-Soviet block neighb (0.9757)
+2026-05-29 00:16:42,785 [INFO] GeoLocator: Batch CLIP завершён: обработано 1 фото. Модель CLIP выгружена.
+2026-05-29 00:16:42,791 [INFO] GeoLocator: CLIP Batch completed in 12.35s
+2026-05-29 00:16:42,791 [INFO] GeoLocator: Отправка изображения в LLaVA: C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg
+2026-05-29 00:31:36,766 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 00:31:37,286 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 00:36:47,874 [INFO] GeoLocator: Запуск UI-процесса batch-обработки: 1 фото (YOLO=yolo11m).
+2026-05-29 00:36:47,889 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 00:36:47,891 [INFO] GeoLocator: Приоритет Windows-процесса повышен до HIGH_PRIORITY_CLASS.
+2026-05-29 00:36:48,089 [INFO] GeoLocator: YOLO ONNX: Модель yolo11m.onnx не найдена. Начинаем экспорт (выполняется один раз)...
+2026-05-29 00:37:09,131 [INFO] GeoLocator: YOLO ONNX: Экспорт успешно завершен.
+2026-05-29 00:37:09,133 [INFO] GeoLocator: Загрузка YOLO ONNX (DirectML): C:\Users\Machinist\Desktop\WHBMv2\geolocator\yolo11m.onnx...
+2026-05-29 00:37:09,135 [INFO] GeoLocator: Batch YOLO: C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg
+2026-05-29 00:37:11,294 [INFO] GeoLocator: Batch YOLO завершён: обработано 1 фото. Модель выгружена.
+2026-05-29 00:37:11,295 [INFO] GeoLocator: YOLO Batch completed in 23.21s
+2026-05-29 00:37:11,296 [INFO] GeoLocator: Инициализация PaddleOCR (ru) для батча 1 фото...
+2026-05-29 00:37:11,296 [WARNING] GeoLocator: Инициализация PaddleOCR с show_log=False завершилась ошибкой, пробуем без него: Unknown argument: show_log
+2026-05-29 00:38:05,716 [ERROR] GeoLocator: Batch OCR ошибка для C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg: PaddleOCR.predict() got an unexpected keyword argument 'cls'
+2026-05-29 00:38:05,718 [INFO] GeoLocator: Batch OCR C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg: 0 блоков
+2026-05-29 00:38:05,992 [INFO] GeoLocator: Batch OCR завершён: 1 фото. PaddleOCR выгружен.
+2026-05-29 00:38:05,993 [INFO] GeoLocator: OCR Batch completed in 54.70s
+2026-05-29 00:38:05,993 [INFO] GeoLocator: Извлечено: улиц=0, POI=0, городов=0, стран=0, телефонов=0, номеров=0
+2026-05-29 00:38:05,993 [INFO] GeoLocator: Устройство PyTorch: cpu
+2026-05-29 00:38:05,994 [INFO] GeoLocator: Загрузка CLIP PyTorch на cpu для батча 1 фото...
+2026-05-29 00:38:19,675 [INFO] GeoLocator: Batch CLIP C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg: a residential street in a post-Soviet block neighb (0.9757)
+2026-05-29 00:38:20,261 [INFO] GeoLocator: Batch CLIP завершён: обработано 1 фото. Модель CLIP выгружена.
+2026-05-29 00:38:20,262 [INFO] GeoLocator: CLIP Batch completed in 14.27s
+2026-05-29 00:38:20,263 [INFO] GeoLocator: Отправка изображения в LLaVA: C:\Users\Machinist\AppData\Local\Temp\gradio\67bf9591a0909b6f224fbee8d4de778a16cdb97c970e9ac4cb2f5f3de4e0b4f6\test_photo.jpg
+2026-05-29 08:12:03,467 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 08:12:03,680 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 08:13:06,348 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 08:13:06,600 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
+2026-05-29 08:14:31,618 [INFO] GeoLocator: Логирование инициализировано.
+2026-05-29 08:14:31,696 [INFO] GeoLocator: Потоки PyTorch ограничены до: 2 (всего логических ядер: 4)
